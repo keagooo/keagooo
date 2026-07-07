@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,45:0f766e,100:7c3aed&text=Keagan%20Hulet&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Network%20%2F%20Systems%20Engineer%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Homelab%20Architect&descSize=15&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,45:0f766e,100:7c3aed&text=Keagan%20Hulet&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Network%20%2F%20Systems%20Engineer%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Homelab%20Architect&descSize=15&descAlignY=55&animation=fadeIn&section=header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=Automating+Microsoft+365%2C+Entra+ID%2C+and+Intune+at+enterprise+scale;Running+a+self-hosted+bare-metal+lab+%E2%80%94+Proxmox%2C+OPNsense%2C+ZFS;Building+local+LLM+inference+and+agent+automation+pipelines;Network+engineer+at+heart+%E2%80%94+VLANs%2C+firewalls%2C+zero+trust" />
 
@@ -42,15 +42,11 @@ CurrentMode  : Wiring local LLMs and agent tooling into real infrastructure
 
 <br>
 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white" />
-<img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Intune-2563EB?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MS%20Graph-737373?style=flat-square&logo=microsoft&logoColor=white" />
-
-<br><br>
-
-*Currently migrating 200+ property-office endpoints off Meraki SM onto Intune with custom M365 Apps packaging, hybrid AD / Entra, Seamless SSO.*
+<img src="https://img.shields.io/badge/PowerShell-1f2937?style=flat-square&logo=powershell&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Microsoft%20365-1f2937?style=flat-square&logo=microsoft365&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Entra%20ID-1f2937?style=flat-square&logo=microsoftazure&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Intune-1f2937?style=flat-square&logo=microsoft&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/MS%20Graph-1f2937?style=flat-square&logo=microsoft&logoColor=22D3EE" />
 
 </td>
 <td width="33%" valign="top">
@@ -65,11 +61,11 @@ CurrentMode  : Wiring local LLMs and agent tooling into real infrastructure
 
 <br>
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/LiteLLM-1D4ED8?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama-1f2937?style=flat-square&logo=ollama&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Claude-1f2937?style=flat-square&logo=anthropic&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/OpenAI-1f2937?style=flat-square&logo=openai&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/n8n-1f2937?style=flat-square&logo=n8n&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/LiteLLM-1f2937?style=flat-square&logoColor=A78BFA" />
 
 </td>
 <td width="33%" valign="top">
@@ -84,11 +80,11 @@ CurrentMode  : Wiring local LLMs and agent tooling into real infrastructure
 
 <br>
 
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/OPNsense-D94F1D?style=flat-square" />
-<img src="https://img.shields.io/badge/ZFS-3B82F6?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco%20Meraki-00BCEB?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Proxmox-1f2937?style=flat-square&logo=proxmox&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/OPNsense-1f2937?style=flat-square&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/ZFS-1f2937?style=flat-square&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Cloudflare-1f2937?style=flat-square&logo=cloudflare&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Cisco%20Meraki-1f2937?style=flat-square&logo=cisco&logoColor=2DD4BF" />
 
 </td>
 </tr>
@@ -105,13 +101,13 @@ CurrentMode  : Wiring local LLMs and agent tooling into real infrastructure
 <div align="center">
 
 **Currently exploring:**
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh-0056B3?style=flat-square" />
-<img src="https://img.shields.io/badge/GNS3-4285F4?style=flat-square" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
-<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square" />
+<img src="https://img.shields.io/badge/Kubernetes-1f2937?style=flat-square&logo=kubernetes&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/HashiCorp%20Vault-1f2937?style=flat-square&logo=vault&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/Redis-1f2937?style=flat-square&logo=redis&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/Wazuh-1f2937?style=flat-square&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/GNS3-1f2937?style=flat-square&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/Qdrant-1f2937?style=flat-square&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/ClickHouse-1f2937?style=flat-square&logoColor=94A3B8" />
 
 </div>
 
