@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,45:0f766e,100:7c3aed&text=Keagan%20Hulet&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Network%20%2F%20Systems%20Engineer%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Homelab%20Architect&descSize=15&descAlignY=55&animation=fadeIn&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,45:0f766e,100:7c3aed&text=Keagan%20Hulet&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Network%20%2F%20Systems%20Engineer%20%C2%B7%20AI%20and%20Automation%20%C2%B7%20Homelab%20Architect&descSize=15&descAlignY=55&animation=fadeIn&section=header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=Automating+Microsoft+365%2C+Entra+ID%2C+and+Intune+at+enterprise+scale;Running+a+self-hosted+bare-metal+lab+%E2%80%94+Proxmox%2C+OPNsense%2C+ZFS;Building+local+LLM+inference+and+agent+automation+pipelines;Network+engineer+at+heart+%E2%80%94+VLANs%2C+firewalls%2C+zero+trust" />
 
